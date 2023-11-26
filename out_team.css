@@ -1,0 +1,33 @@
+h1{
+    color: #994D1C;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    font-family: "Copperplate", Times, fantasy;
+    font-size: 60px;
+}
+
+.introduction{
+    position: absolute;
+    top: 320px;
+    left: 400px;
+    font-family: "Brush Script MT", Times, cursive;
+    font-size: 30px;
+}
+
+h2{
+    text-align: center;
+    bottom: 180px;
+    left: 40px;
+    position: relative;
+    color: #743d19;
+    
+}
+
+.hour_of_code{
+    position: relative;
+    top: 150px;
+    left: 40px;
+    
+}
+
